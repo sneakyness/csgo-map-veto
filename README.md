@@ -1,13 +1,13 @@
-# CSGO Map Veto
+# Quake Champions Map Veto
 
-This is a cross-platform and web application to make map veto for the game Counter-Strike Global Offensive.  
-I made this application for a friend and it's inspired from [https://csgomapveto.com/](https://csgomapveto.com/). The main difference is that you can use it offline.
+This is a cross-platform and web application to make map veto for the game Quake Champions.  
+Modus pointed out this was a thing, I edited it to include QC assets/map names. 
+
+Thank you Akiver for creating this lovely tool 
 
 ## Usage
 
-You can use the web version [here](https://csgo-demos-manager.com/map-veto) or download the last desktop version [here](https://github.com/akiver/csgo-map-veto/releases).
-
-![Preview](https://raw.githubusercontent.com/akiver/csgo-map-veto/master/preview.jpg)
+I have no idea if I even did it right, or what else needs to be added/changed. Some brave souls should get this runnning and report back with issues! 
 
 ## Dependencies
 
@@ -32,4 +32,4 @@ To build the WEB version (available in the `web` folder):
 
 ## License
 
-[GPL v2](https://github.com/akiver/csgo-map-veto/blob/master/LICENSE.md)
+[GPL v2](https://github.com/sneakyness/quake-champions-map-veto/blob/master/LICENSE.md)
