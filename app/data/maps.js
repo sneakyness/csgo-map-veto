@@ -1,7 +1,7 @@
 const MAPS = [{
     value: 'awoken',
     label: 'Awoken',
-    name: 'awoken',
+    name: 'Awoken',
     imageName: 'awoken.jpg',
     isSelected: true,
     isBanned: false,
@@ -10,7 +10,7 @@ const MAPS = [{
 }, {
     value: 'blood_covenant',
     label: 'Blood Covenant',
-    name: 'blood_covenant',
+    name: 'Blood Covenant',
     imageName: 'blood_covenant.jpg',
     isSelected: true,
     isBanned: false,
@@ -19,7 +19,7 @@ const MAPS = [{
 }, {
     value: 'blood_run',
     label: 'Blood Run',
-    name: 'blood_run',
+    name: 'Blood Run',
     imageName: 'blood_run.jpg',
     isSelected: true,
     isBanned: false,
@@ -28,7 +28,7 @@ const MAPS = [{
 }, {
     value: 'burial_chamber',
     label: 'Burial Chamber',
-    name: 'burial_chamber',
+    name: 'Burial Chamber',
     imageName: 'burial_chamber.jpg',
     isSelected: true,
     isBanned: false,
@@ -37,7 +37,7 @@ const MAPS = [{
 }, {
     value: 'corrupted_keep',
     label: 'Corrupted Keep',
-    name: 'corrupted_keep',
+    name: 'Corrupted Keep',
     imageName: 'corrupted_keep.jpg',
     isSelected: true,
     isBanned: false,
@@ -46,16 +46,16 @@ const MAPS = [{
 }, {
     value: 'lockbox',
     label: 'Lockbox',
-    name: 'lockbox',
+    name: 'Lockbox',
     imageName: 'lockbox.jpg',
-    isSelected: true,
+    isSelected: false,
     isBanned: false,
     isPicked: false,
     isRandom: false
 }, {
     value: 'ruins_of_sarnath',
     label: 'Ruins of Sarnath',
-    name: 'ruins_of_sarnath',
+    name: 'Ruins of Sarnath',
     imageName: 'ruins_of_sarnath.jpg',
     isSelected: true,
     isBanned: false,
@@ -64,27 +64,27 @@ const MAPS = [{
 }, {
     value: 'tempest_shrine',
     label: 'Tempest Shrine',
-    name: 'tempest_shrine',
+    name: 'Tempest Shrine',
     imageName: 'tempest_shrine.jpg',
-    isSelected: true,
+    isSelected: false,
     isBanned: false,
     isPicked: false,
     isRandom: false
 }, {
     value: 'the_molten_falls',
     label: 'The Molten Falls',
-    name: 'the_molten_falls',
+    name: 'The Molten Falls',
     imageName: 'the_molten_falls.jpg',
-    isSelected: false,
+    isSelected: true,
     isBanned: false,
     isPicked: false,
     isRandom: false
 }, {
     value: 'vale_of_pnath',
     label: 'Vale of Pnath',
-    name: 'vale_of_pnath',
+    name: 'Vale of Pnath',
     imageName: 'vale_of_pnath.jpg',
-    isSelected: true,
+    isSelected: false,
     isBanned: false,
     isPicked: false,
     isRandom: false
