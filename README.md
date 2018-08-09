@@ -9,6 +9,8 @@ Thank you Akiver for creating this lovely tool
 
 Once we finish updating this to fully match QC tournament formats and theme, there will be a web version as well as downloadable desktop releases.
 
+There is currently a [test release available for MacOS here](https://github.com/sneakyness/quake-champions-map-veto/releases/tag/1.1.1)
+
 ![Preview](https://raw.githubusercontent.com/sneakyness/quake-champions-map-veto/master/preview.png)
 
 ## Dependencies
