@@ -1,13 +1,13 @@
 {
-  "name": "csgo-map-veto",
-  "version": "1.1.0",
-  "description": "An app to do CSGO map veto.",
+  "name": "quake-champions-map-veto",
+  "version": "1.1.1",
+  "description": "An app to do Quake Champions map veto.",
   "license": "GPL-2.0",
-  "author": "AkiVer",
-  "homepage": "https://github.com/akiver/csgo-map-veto",
+  "author": "Sneakyness",
+  "homepage": "https://github.com/sneakyness/quake-champions-map-veto",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiver/csgo-map-veto.git"
+    "url": "https://github.com/sneakyness/quake-champions-map-veto.git"
   },
   "main": "main.js",
   "scripts": {
@@ -69,8 +69,8 @@
     "webpack-merge": "^4.1.0"
   },
   "build": {
-    "appId": "com.electron.csgomapveto",
-    "productName": "CSGO Map Veto",
+    "appId": "com.electron.quakechampionsmapveto",
+    "productName": "Quake Champions Map Veto",
     "mac": {
       "category": "public.app-category.utilities"
     },
@@ -91,7 +91,7 @@
     }
   },
   "keywords": [
-    "csgo",
+    "Quake Champions",
     "electron"
   ],
   "devEngines": {
