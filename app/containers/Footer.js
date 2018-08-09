@@ -1,7 +1,7 @@
 import {connect} from 'react-redux'
 import Footer from '../components/Footer'
 
-const GITHUB_URL = 'https://github.com/akiver/csgo-map-veto'
+const GITHUB_URL = 'https://github.com/sneakyness/quake-champions-map-veto'
 
 const mapDispatchToProps = (dispatch) => {
     return {
